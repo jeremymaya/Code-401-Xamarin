@@ -52,4 +52,5 @@ Then select and open ```XamarinLab.sln```
 ---
 
 ### Change Log
+1.0: *Lab 41 Completed* - 10 Dec 2019 11:30 AM
 1.0: *Lab 41 Started* - 10 Dec 2019 9:30 AM
