@@ -41,6 +41,7 @@ Then select and open ```XamarinLab.sln```
 ![translated](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/translated.png)
 #### Call
 ![call](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/call.png)
+#### Call Confirmation
 ![call-confirm](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/call-confirm.png)
 
 ---
