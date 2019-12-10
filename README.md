@@ -36,12 +36,12 @@ Then select and open ```XamarinLab.sln```
 
 ### Visuals
 #### Home
-![home](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/home.png)
+![home](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/home.png)
 #### Translated
-![translated](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/translated.png)
+![translated](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/translated.png)
 #### Call
-![call](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/call.png)
-![call-confirm](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/call-confirm.png)
+![call](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/call.png)
+![call-confirm](https://github.com/jeremymaya/Code-401-Xamarin/blob/master/assets/call-confirm.png)
 
 ---
 
