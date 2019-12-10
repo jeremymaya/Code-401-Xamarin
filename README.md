@@ -8,7 +8,11 @@ Lab 41: Intro to Xamarin
 ----
 
 ## Description
-Explore the world of mobile development by building out your own basic xamarin web app.
+This lab is to explore the world of mobile development by building out your own basic xamarin web app.  
+
+To get Xamarin proof-of-concept working, I followed the Microsoft's Xamarin exercise which builds an app that will let the user type text into an input field, and will translate that text to numeric digits. It uses the letters that show up on a telephone keypad as the basis for translation.
+
+For example, the letters "cab" translates to "222" because the digit "2" has all three letters "abc".
 
 ---
 
@@ -31,12 +35,18 @@ Then select and open ```XamarinLab.sln```
 ---
 
 ### Visuals
-![Home]()
+#### Home
+![home](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/home.png)
+#### Translated
+![translated](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/translated.png)
+#### Call
+![call](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/call.png)
+![call-confirm](https://github.com/jeremymaya/Code-401-XamarinInn/blob/master/assets/call-confirm.png)
 
 ---
 
 ### Credits
-[Code Fellows](https://codefellows.github.io/code-401-dotnet-guide/Resources/MVCSetup)
+[Microsoft - Create a phone number translator app](https://docs.microsoft.com/en-us/learn/modules/create-a-mobile-app-with-xamarin-forms/5-exercise-create-phone-number-translator-app)
 
 ---
 

@@ -13,7 +13,7 @@ namespace XamarainLab
 
         public MainPage()
         {
-            Padding = new Thickness(20, 60, 20, 20);
+            Padding = new Thickness(20, 300, 20, 20);
 
             StackLayout panel = new StackLayout
             {
@@ -41,11 +41,6 @@ namespace XamarainLab
                 Text = "Call",
                 IsEnabled = false,
             });
-
-            Content = panel;
-
-            translateButton.Clicked += OnTranslate;
-            Content = panel;
 
             translateButton.Clicked += OnTranslate;
             callButton.Clicked += OnCallAsync;
@@ -91,7 +86,6 @@ namespace XamarainLab
                 }
                 catch (Exception)
                 {
-                    // Other error has occurred.
                     await DisplayAlert("Unable to dial", "Phone dialing failed.", "OK");
                 }
             }
